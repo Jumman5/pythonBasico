@@ -1,5 +1,5 @@
 # pythonBasico
-## In this repository we have workd and the basic level o python such as:
+## In this repository we have worked on the basic level of python such as:
 1.Introduction to programming through the Python language. <br/>
 2.Data types, variables, assignments, control structures, functions, classes, modules and Input/Output.\
 3.Data structures: arrays, strings, lists, tuples and dictionaries.\
